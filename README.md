@@ -1,0 +1,1 @@
+Los siguientes códigos fueron empleados en las simulaciones desarrolladas para el proyecto de tesis titulado: Evaluación de la Flexibilidad Renovable Distribuida: Gestión Estratégica de Riesgos en Contextos de Incertidumbre.
